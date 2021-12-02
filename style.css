@@ -62,6 +62,8 @@ input {
   padding: 18px 0 18px 22px;
   width: 400px;
   border-radius: 40px;
+  color: var(--Pale-Blue);
+  border-color: var(--Pale-Blue);
 }
 
 small {
@@ -87,7 +89,6 @@ button {
   border-radius: 40px;
   font-size: 15px;
   font-weight: 600;
-  color: #fff;
   background-color: var(--Blue);
   cursor: pointer;
   box-shadow: var(--Very-Dark-Blue) 1px 2px 4px;
